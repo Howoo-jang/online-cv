@@ -53,7 +53,7 @@ career-profile:
       He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
       
 education:
-    title : Education
+    title : EDUCATION
     - degree: MSc in Graduate School of Semiconductor Technology
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: 2025 - Present
@@ -66,6 +66,7 @@ education:
       # details: |
         #   - Bullet point
         #   - Bullet point
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
