@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: janghowoo@gmail.com
-    phone: 010-6663-4154
+    phone: 010 6663 4154
     citizenship:
     website: csdl.postech.ac.kr
     linkedin:
@@ -64,8 +64,6 @@ education:
       university: DGIST, Daegu, South Korea
       time: Feb 2019 - Feb 2025
       details: |
-          - Bullet point
-          - Bullet point
         
 experiences:
     - role: Developer
