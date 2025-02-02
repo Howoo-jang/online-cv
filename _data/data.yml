@@ -51,6 +51,7 @@ career-profile:
       Howoo Jang received B.S. degree in School of Undergraduate Studies, DGIST (2025), Daegu, South Korea. in 2025. 
       He is currently a M.S. candidate in Graduate School of Semiconductor Technology in Pohang University of Science and Technology(POSTECH), Pohang, South Korea. 
       He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
+      
 education:
     title : EDUCATION
     - degree: MSc in Graduate School of Semiconductor Technology
@@ -58,6 +59,7 @@ education:
       time: 2025 - Present
       details: |
         Advisor: Prof. Seokhyeong Kang
+        
     - degree: BSc in School of Undergraduate Studies
       university: DGIST, Daegu, South Korea
       time: 2019 - 2025
